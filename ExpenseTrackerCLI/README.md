@@ -1,9 +1,9 @@
 # 𝗘𝘅𝗽𝗲𝗻𝘀𝗲 𝗧𝗿𝗮𝗰𝗸𝗲𝗿 𝗖𝗟𝗜
 
-[//]: # (Paste your video demonstration or GIF here)
 <br/>
+
 <div align="center">
-  <img src="assets/cli.gif" alt="Expense Tracker CLI Demo" width="800" />
+  <img src="assets/cli.gif" alt="Expense Tracker CLI Demo" width="700" />
 </div>
 <br/>
 
