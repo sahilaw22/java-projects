@@ -9,6 +9,7 @@ This repository contains a collection of Java projects developed as part of coll
 ## Projects
 
 * **[ExpenseTrackerCLI](./ExpenseTrackerCLI/)**
-  : A command-line based expense tracking application.
+   A command-line based expense tracking application.
+  
 * **[ExpenseTrackerGUI](./ExpenseTrackerGUI/)**
-  : A graphical user interface (GUI) based expense tracking application using JavaFX.
+   A graphical user interface (GUI) based expense tracking application using JavaFX.
